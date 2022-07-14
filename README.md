@@ -1,5 +1,3 @@
-## Pre-requisite
-- Setup the [aws cli credentials](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)
 
 ## Setup
 
