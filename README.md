@@ -1,5 +1,4 @@
 ## Pre-requisite
-- Install [terraform v1.0.0](https://www.terraform.io/downloads.html)
 - Setup the [aws cli credentials](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html) with `default` profile name.
 
 ## Setup
